@@ -1,0 +1,32 @@
+.intro{
+    background-color: #002E94;
+}
+.icon_list{
+    margin-right: 75%;
+    margin-top: 2%;
+    width: 25%;
+    height: 100%;
+    position: sticky;
+    color: antiquewhite;
+}
+.icon_list li:hover {
+    color: aqua;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}
+.name{
+    display: flex;
+    text-align: center;
+    margin-left: 40%;
+    font-weight: 1000;
+    color: aliceblue;
+}
+.de{
+    color: rgb(71, 70, 70);
+}
+.head_body{
+  margin-top: 10px;
+   color: aliceblue;
+    font-weight: 600;
+    color: gray;
+}
